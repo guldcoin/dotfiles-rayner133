@@ -1,0 +1,7 @@
+[user]
+	username = rayner133
+	name = Rayner Vesely
+[commit]
+	gpgsign = true
+[aliases]
+	github = rayner133
